@@ -1,2 +1,3 @@
-# python_study
+for study
 python_study
+
